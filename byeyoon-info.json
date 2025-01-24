@@ -1,1 +1,14 @@
-# pic
+{
+  "name": "ByeYoon",
+  "symbol": "BY",
+  "image": "https://raw.githubusercontent.com/byeyoon/pic/main/byeyoon.png",
+  "description": "ByeYoon is a meme token on the Solana blockchain. 10% of $ByeYoon will be allocated to the former president upon retirement, honoring its symbolic purpose. 80% of the total supply will be committed to liquidity, ensuring market stability and trust. 10% is dedicated to creators.",
+  "twitter": "https://x.com/RealByeYoon",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "8e1LQ9fuT3eQHRr4Q1m86zzNPR23iDYE48WvQcfbFtrv",
+      "share": 10
+    }
+  ]
+}
